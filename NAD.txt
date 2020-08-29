@@ -1,0 +1,6 @@
+Docker - 
+JIRA - 
+GIT - 
+Jenkins - 
+Selenium - 
+Scrum Management - 
